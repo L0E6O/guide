@@ -1,0 +1,14 @@
+PER SCRIVERE E COMPILARE IN C++ SU LINUX DA ZERO
+
+1: scarica estensione C/C++: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+
+2: Installa questo: dnf install @development-tools
+
+3: Installa questo: sudo dnf install gcc-c++
+
+NOTE:
+nella cartella di un progetto ci dovrebbe essere:
+
+.vscode/task.json: informazioni tecnice che dicono tipo che compilatore usare
+
+.vscode/c_cpp_properties.json: configurazioni per intellisense
