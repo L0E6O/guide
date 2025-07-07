@@ -1,0 +1,5 @@
+crt.sh => serve a cercare i certificati SSL/TLS (dei domini e sottodomini) creati in base a certi parametri
+
+Sublist3r => tool che trova in automatico i sottodomini di un certo dominio
+
+ffuf => può controllare i sottodomini di un sito o cercare di accedere con diversi utenti creando serie di richieste personalizzate con l'uso di wordlist
