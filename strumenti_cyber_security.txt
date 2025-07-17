@@ -3,3 +3,7 @@ crt.sh => serve a cercare i certificati SSL/TLS (dei domini e sottodomini) creat
 Sublist3r => tool che trova in automatico i sottodomini di un certo dominio
 
 ffuf => può controllare i sottodomini di un sito o cercare di accedere con diversi utenti creando serie di richieste personalizzate con l'uso di wordlist
+
+BurpSuite => permette, tra le altre cose, di intercettare e manipolare richieste HTTP e anche di altro tipo
+
+XSS Hunter Express => per fare attacchi di blind XSS
